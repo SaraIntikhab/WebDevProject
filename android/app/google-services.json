@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "428043847022",
+    "project_id": "khayaal-cc65f",
+    "storage_bucket": "khayaal-cc65f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428043847022:android:0d42c8f97dcc8eb2cced7f",
+        "android_client_info": {
+          "package_name": "com.nimrahjawdhu.khayaal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428043847022-b1e8s2ptikvhsgvldel4f2ctgfh0re8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCifaXGsYqJzaGTxS1k1hm60XbPFlpwTi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428043847022-b1e8s2ptikvhsgvldel4f2ctgfh0re8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

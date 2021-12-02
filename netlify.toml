@@ -1,0 +1,3 @@
+[build]
+  command = "chmod a+x ./netlify-build.sh && ./netlify-build.sh"
+  publish = "build/web"
